@@ -1,7 +1,12 @@
 allow_embedding: false
-package_name: Material_Design_3
-name: Material Design 3
-startup_form: Form1
+package_name: Test_Python
+startup: {type: form, module: StartupForm}
+name: Test Python
+startup_form: null
 runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
   server_spec: null}
-services: []
+metadata: {title: Testing Python, logo_img: 'asset:turnip_token.png'}
+services:
+- source: /runtime/services/tables.yml
+  client_config: {}
+  server_config: {}
