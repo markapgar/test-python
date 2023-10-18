@@ -2,4 +2,5 @@
 *.pyo
 __pycache__
 .anvil-data
+.pytest_cache
 env/
