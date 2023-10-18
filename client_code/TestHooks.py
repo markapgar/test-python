@@ -1,3 +1,4 @@
+import anvil.server
 from anvil.js import get_dom_node
 
 def set_test_id(component, test_id):

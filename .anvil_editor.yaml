@@ -4,7 +4,8 @@ unique_ids:
     StartupForm: 2MW5UAGNT7SAYQI53L3PF23OX4BO46BZ
   modules:
     TestHooks: '1695699865109747082594231.0298'
-  server_modules: {}
+  server_modules:
+    RemoteWiring: '1697590632451531389021396.39966'
   assets:
     standard-page.html: CXQDHQINMC2BTLA5H5KBF5A6LIVCXV4Q
     theme.css: MH5H3S264MTTGUHTYEUTHSZWX3Y5735R
